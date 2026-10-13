@@ -1,0 +1,5 @@
+name: Local
+variables:
+  - name: base_url
+    value: https://laravel-api-practice.test
+    description: Url a la que hacer las peticiones
